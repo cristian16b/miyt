@@ -54,10 +54,6 @@
         {
             "type": "composer",
             "url": "https://app.santafe.gov.ar/archivist"
-        },
-        {
-            "type": "svn",
-            "url": "https://10.7.16.19/svn/usuarios-bundle/"
         }
     ]
 
