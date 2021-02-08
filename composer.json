@@ -30,7 +30,7 @@
         "stg/ldap-authentication-bundle": "0.*",
         "stg/audit-bundle": "1.*",
         "stg/cas-bundle": "3.*",
-        "maspyma/usuarios": "1.0.x-dev",
+        "maspyma/usuarios": "dev-master",
         "lexik/form-filter-bundle": "4.*",
         "simplethings/entity-audit-bundle": "0.9.*",
         "doctrine/doctrine-fixtures-bundle": "2.2.*",
