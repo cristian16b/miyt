@@ -21,10 +21,9 @@
         }
     ],
     "require": {
-        "php": ">=5.3.9",
-        "symfony/framework-bundle": "~2.8",
-        "twig/extensions": "1.*",
-        "symfony/assetic-bundle": "2.8.*",
+        "php": ">=5.5.9",
+        "twig/twig": "^1.0||^2.0",
+        "symfony/symfony": "3.4.*",
         "sensio/generator-bundle": "2.4.*",
         "stof/doctrine-extensions-bundle": "^1.2",
         "stg/theme-bundle": "1.*",
@@ -35,7 +34,7 @@
         "lexik/form-filter-bundle": "4.*",
         "simplethings/entity-audit-bundle": "0.9.*",
         "doctrine/doctrine-fixtures-bundle": "2.2.*",
-        "whiteoctober/tcpdf-bundle": "dev-trunk",
+        "whiteoctober/tcpdf-bundle": "dev-master",
         "pugx/autocompleter-bundle": "1.*",
         "gedmo/doctrine-extensions": "2.*",
         "beberlei/doctrineextensions": "1.*"
