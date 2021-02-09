@@ -27,7 +27,6 @@
         "sensio/generator-bundle": "3.1.*",
         "stof/doctrine-extensions-bundle": "^1.2",
         "stg/theme-bundle": "1.*",
-        "stg/ldap-authentication-bundle": "0.0.2",
         "stg/audit-bundle": "1.*",
         "stg/cas-bundle": "3.*",
         "maspyma/usuarios": "dev-master",
