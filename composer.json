@@ -29,7 +29,7 @@
         "stgbundle/cas-bundle": "^4.0",
         "stgbundle/theme-bundle": "^2.0",
         "maspyma/usuarios": "dev-master",
-        "lexik/form-filter-bundle": "4.*",
+        "lexik/form-filter-bundle": "5.*",
         "simplethings/entity-audit-bundle": "0.9.*",
         "doctrine/doctrine-fixtures-bundle": "2.2.*",
         "whiteoctober/tcpdf-bundle": "dev-master",
