@@ -31,7 +31,7 @@
         "maspyma/usuarios": "dev-master",
         "lexik/form-filter-bundle": "5.*",
         "simplethings/entity-audit-bundle": "0.9.*",
-        "doctrine/doctrine-fixtures-bundle": "2.2.*",
+        "doctrine/doctrine-fixtures-bundle": "3.4.*",
         "whiteoctober/tcpdf-bundle": "dev-master",
         "pugx/autocompleter-bundle": "1.*",
         "gedmo/doctrine-extensions": "2.*",
